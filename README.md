@@ -27,8 +27,8 @@ Users should be able to:
 	- The email address is not formatted correctly (i.e. a correct email address should have this structure: `name@host.tld`). The message for this error should say *"Please provide a valid email address"*
 
 ### Screenshot
-<img src="https://github.com/Abhishek1334/single-column-coming-soon-page/blob/98dcc3cdd56fcfc37ef00c266b456cd0d494ba72/mobile-view.png" alt="mobile-view">
-<img src="https://github.com/Abhishek1334/single-column-coming-soon-page/blob/98dcc3cdd56fcfc37ef00c266b456cd0d494ba72/desktop-view.png" alt="desktop-view">
+<img src="https://github.com/Abhishek1334/single-column-coming-soon-page/blob/master/mobile-view.png" alt="mobile-view">
+<img src="https://github.com/Abhishek1334/single-column-coming-soon-page/blob/master/desktop-view.png" alt="desktop-view">
 
 ### Links
 
@@ -46,13 +46,6 @@ Users should be able to:
 - Mobile-first workflow
 - CSS Variables
 - Media Query
-
-### What I learned
-
-
-
-
-### Continued development
 
 Use this section to outline areas that you want to continue focusing on in future projects. These could be concepts you're still not completely comfortable with or techniques you found useful that you want to refine and perfect.
 
